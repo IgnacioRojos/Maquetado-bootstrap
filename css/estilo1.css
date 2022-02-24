@@ -1,0 +1,153 @@
+.img-fluid{
+	width: 350px;
+}
+.logo_whatsapp{
+	width: 250px;
+
+}
+.titulo__footer3{
+	text-align: center;
+	margin-top: 40px;
+}
+.cuadro{
+	padding-left: 50px;
+}
+.texto__contacto3{
+	padding-top: 70px;
+
+}
+.html_altura{
+	overflow-x:hidden ;
+
+}
+.carta{
+	background-image: linear-gradient(to bottom, greenyellow, white);
+}
+body{
+	background-image: linear-gradient(to bottom, skyblue, white);
+}
+
+.nav{
+	text-align: center;
+	font-size: 20px;
+}
+
+.imagen_ppp{
+	padding-left: 50px;
+}
+.opiniones{
+	margin-top: 80px;
+}
+.texto_inicio{
+	margin-top: 80px;
+}
+.boton{
+	margin-bottom: 192px;
+}
+
+.imagen__reparacion{
+	width: 850px;
+}
+.imgOriginal{
+	width: 850px;
+}
+.imgNothebook{
+	width: 850px;
+}
+.titulo__video{
+	font-size: 50px;
+	padding-top: 20px;
+}
+.video__presentacion{
+	padding-top: 20px;
+}
+.logo__telefono{
+	width: 350px;
+}
+.logo__email{
+	width: 250px;
+}
+.logo__transferencia{
+	width: 250px;
+}
+.logo__mercadoPago{
+	width: 250px;
+}
+
+.titulo__local{
+	font-size: 50px;
+	margin-top: 40px;
+	padding-left: 20px;
+}
+
+@media only screen and (max-width: 768px){
+	.body{
+		overflow-x: hidden;
+	}
+	.textoComentario{
+		width: 325px;
+	}
+
+	.img-fluid{
+		width: 150px;
+	}
+	.imagen_ppp{
+		width: 250px;
+	}
+	.texto_inicio{
+		font-size: 11px;
+		padding-left: 15px;
+	}
+	.opiniones{
+		font-size: 12px;
+	}
+	.nombre_opinion{
+		font-size: 25px;
+	}
+	.nav{
+		text-align: center;
+		font-size: 15px;
+		padding-left: 20px;
+	}
+	.texto__contacto3{
+		padding-left: 15px;
+	}
+	.textoDuda{
+		width: 348px;
+	}
+	.respuesta{
+		font-size: 12px;
+	}
+	.pregunta{
+		font-size: 17px;
+		font-style: italic;
+	}
+	.frecuente{
+		font-size: 30px;
+	}
+	.duda{
+		font-size: 29px;
+	}
+	.imagen__reparacion{
+		width: 373px;
+	}
+	.titulo__video{
+		font-size: 29px;
+	}
+	.video__presentacion{
+		width: 386px;
+	}
+	.titulo__local{
+		font-size: 36px;
+		padding-left: 20px;
+	}
+	.mapa__local{
+		width: 376px;
+	}
+	.telefono_contacto{
+		padding-bottom: 20px;
+	}
+	.titulo__pagos{
+		padding-top: 20px;
+	}
+}	
